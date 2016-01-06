@@ -1,11 +1,11 @@
 # My codility test in two hours
 
 ## Tasks
-1. Task 1
+1. Task 1  
 ![Task1] (https://raw.githubusercontent.com/leehom59/Codility.Exam/master/exams/Task1.jpg "Task1")  
-2. Task 2
+2. Task 2  
 ![Task2] (https://raw.githubusercontent.com/leehom59/Codility.Exam/master/exams/Task2.jpg "Task2")  
-3. Task 3
+3. Task 3  
 ![Task3] (https://raw.githubusercontent.com/leehom59/Codility.Exam/master/exams/Task3.jpg "Task3")  
 
 
