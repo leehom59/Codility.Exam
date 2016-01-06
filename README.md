@@ -11,5 +11,5 @@
 
 ## Statement
 * This project is just a record for my test.
-* Feel free to Challenge my thinking, I'm still learning.
+* Feel free to challenge my thinking, I'm still learning.
 * Be honest! Don't copy/paste directly when you are in testing.
