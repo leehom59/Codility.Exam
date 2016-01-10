@@ -1,5 +1,10 @@
 # My codility test in two hours
 
+## Statement
+* This project is just a record for my test.
+* Feel free to challenge my thinking, I'm still learning.
+* Be honest! Don't copy/paste directly when you are in testing.
+
 ## Tasks
 1. Task 1  
 ![Task1] (https://raw.githubusercontent.com/leehom59/Codility.Exam/master/exams/Task1.jpg "Task1")  
@@ -9,7 +14,3 @@
 ![Task3] (https://raw.githubusercontent.com/leehom59/Codility.Exam/master/exams/Task3.jpg "Task3")  
 
 
-## Statement
-* This project is just a record for my test.
-* Feel free to challenge my thinking, I'm still learning.
-* Be honest! Don't copy/paste directly when you are in testing.
